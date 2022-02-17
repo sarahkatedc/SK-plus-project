@@ -1,0 +1,55 @@
+.current-weather {
+  font-size: 80px;
+}
+
+.current-date {
+  font-size: 22px;
+}
+
+.row.forecast {
+  border-style: solid;
+  margin: 20px;
+  font-size: 20px;
+}
+.row.hourly {
+  margin: 20px;
+  padding: 0px;
+}
+
+.temp.options {
+  text-align: center;
+}
+
+.weekday {
+  color: grey;
+  font-weight: bolder;
+}
+
+.col {
+  text-align: center;
+  padding: 20px;
+}
+
+.degree {
+  color: grey;
+}
+
+h3,
+h2 {
+  text-align: center;
+}
+
+.search {
+  margin: 10px;
+}
+
+body {
+  border-style: solid;
+  border-radius: 10px;
+  font-family: "Cabin", sans-serif;
+  max-width: 800px;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
